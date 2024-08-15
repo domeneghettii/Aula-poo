@@ -1,4 +1,4 @@
-const cachorroObjeto = new Object;
+const cachorroObjeto = new Object
 cachorroObjeto.nome = "Ninna";
 cachorroObjeto.raca = "chow chow";
 cachorroObjeto.cor = "Marrom";
